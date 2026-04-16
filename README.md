@@ -121,9 +121,9 @@ allForm.Show();
 
 ---
 
-## 🤖 Question 2 — ML.NET + Docker
+##  Question 2 — ML.NET + Docker
 
-### ✅ Data Model Classes
+###  Data Model Classes
 ```csharp
 public class StudentData
 {
