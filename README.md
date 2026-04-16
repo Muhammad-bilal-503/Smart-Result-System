@@ -143,7 +143,7 @@ public class StudentPrediction
 }
 ```
 
-### ✅ ML.NET Pipeline
+###  ML.NET Pipeline
 ```csharp
 var pipeline = mlContext.Transforms
     .Concatenate("Features", "Marks", "Attendance", "Assignments")
@@ -157,7 +157,7 @@ trainedModel = pipeline.Fit(dataView);
 - **Input:** Marks, Attendance, Assignments
 - **Output:** Pass / Fail + Confidence %
 
-### ✅ Dockerfile
+###  Dockerfile
 ```dockerfile
 # Stage 1: Build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
