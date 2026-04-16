@@ -1,4 +1,4 @@
-# 🎓 Smart Student Result Prediction System
+#  Smart Student Result Prediction System
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
