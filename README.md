@@ -177,7 +177,7 @@ ENTRYPOINT ["dotnet", "SmartResultSystem.dll"]
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Visual Studio 2022
@@ -192,7 +192,7 @@ ENTRYPOINT ["dotnet", "SmartResultSystem.dll"]
 4. Press F5 to run
 ```
 
-> ⚠️ **Note:** If you see a platform error, go to:
+>  **Note:** If you see a platform error, go to:
 > `Build → Configuration Manager → Change platform to x64`
 
 ---
