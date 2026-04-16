@@ -62,9 +62,9 @@ SmartResultSystem/
 
 ---
 
-## 🧩 Question 1 — OOP System
+##  Question 1 — OOP System
 
-### ✅ OOP Concepts Implemented
+###  OOP Concepts Implemented
 
 #### 1. Person Class (Base Class)
 ```csharp
