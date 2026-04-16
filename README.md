@@ -26,7 +26,7 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This project is a **Smart Student Result Prediction System** built in C# using Windows Forms and ML.NET. It was developed as a Mid Term Lab exam submission and covers two major questions:
 
@@ -38,7 +38,7 @@ This project is a **Smart Student Result Prediction System** built in C# using W
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 SmartResultSystem/
