@@ -197,7 +197,7 @@ ENTRYPOINT ["dotnet", "SmartResultSystem.dll"]
 
 ---
 
-## 🐳 Docker Deployment
+##  Docker Deployment
 
 ```bash
 # Step 1: Build the Docker image
@@ -221,7 +221,7 @@ docker rm smart-result-container
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 | Field | Details |
 |-------|---------|
