@@ -104,7 +104,7 @@ public class Student : Person   // Inheritance
 | 50+ | D Grade — Pass |
 | Below 50 | F Grade — Fail |
 
-### ✅ Windows Forms Interface
+###  Windows Forms Interface
 - **Labels + TextBoxes** for student data entry
 - **4 Buttons** with Event Handling:
   - `Add Student` — creates Student object, saves to list
@@ -112,7 +112,7 @@ public class Student : Person   // Inheritance
   - `View All Students` — opens second form
   - `Clear` — resets all fields
 
-### ✅ Multiple Form Interaction
+###  Multiple Form Interaction
 ```csharp
 // Data passed from MainForm to AllStudentsForm
 AllStudentsForm allForm = new AllStudentsForm(studentList);
